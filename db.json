@@ -27,5 +27,38 @@
     ],
     "profile": {
         "name": "typicode"
+    },
+     "products": [
+    {
+      "id": 1,
+      "title": "iPhone 9",
+      "price": 549,
+      "rating": 4.69,
+      "images": "https://i.dummyjson.com/data/products/1/1.jpg"
+      
+    },
+    {
+      "id": 2,
+      "title": "iPhone X",
+      "price": 899,
+      "rating": 4.44,
+      "images": "https://i.dummyjson.com/data/products/2/1.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Samsung Universe 9",
+      "price": 1249,
+      "rating": 4.09,
+      "category": "smartphones",
+      "images": "https://i.dummyjson.com/data/products/3/1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "OPPOF19",
+      "price": 280,
+      "rating": 4.3,
+      "category": "smartphones",
+      "images": "https://i.dummyjson.com/data/products/4/1.jpg"
     }
+  ]
 }
